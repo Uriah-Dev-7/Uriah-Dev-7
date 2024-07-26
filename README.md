@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Uriah
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C# and 3D modeling
